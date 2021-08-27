@@ -15,7 +15,7 @@ project_preprocessing.ipynb : okt 모듈 사용하여 한글 추출, stopword �
 
 < 3. 모델링 >
 
-project_learning.ipynb : 
+project_learning.ipynb : LSTM-CNN 결합하여 
 
 
 <4. 모델성능예측>
